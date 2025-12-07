@@ -19,7 +19,7 @@ FishingBot 是一款專為特定遊戲設計的自動釣魚輔助工具。它結
 
 ### **1\. 下載與解壓縮**
 
-1. 前往 [Releases](https://www.google.com/search?q=https://github.com/YourUsername/YourRepo/releases) 下載最新的 .zip 壓縮包。  
+1. 前往 [Releases](https://github.com/VStorm001/FishingBot/releases) 下載最新的 .zip 壓縮包。  
 2. **請勿直接在壓縮檔內執行！** 請將整個資料夾解壓縮到您的桌面或任意目錄。
 
 ### **2\. 防毒軟體設定 (關鍵步驟 ⚠️)**
