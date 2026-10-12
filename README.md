@@ -20,10 +20,9 @@ GitHub 太慢時，執行器內建的更新會自動改從 `dl.vstorm.cc` 下載
 3. 選任務、設定選項後開始。
 4. 有新版時執行器會提示更新；你的設定與紀錄（`config/`、`data/`）更新後會保留。
 
-## 購買、卡密與客服
+## 協助
 
-- Discord：<https://discord.gg/8Ua7n7Gxaq>（開工單：領取卡密、體驗卡、重設綁定、回報問題、使用導航）
-- 商店：<https://shop.vstorm.cc>
+- Discord：<https://discord.gg/8Ua7n7Gxaq>
 
 ## 原始碼與授權
 
